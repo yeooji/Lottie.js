@@ -1,0 +1,24 @@
+body{
+    margin: 0px;
+    height: 100%;
+}
+#go-home {
+    position: fixed;
+    top: 10px;
+    left: 10px;
+    text-decoration: none;
+    color: #333333;
+    z-index: 100;
+}
+.animation-container{
+    height: 4000px;
+}
+.animation{
+    width:800px;
+    height: 800px;
+    margin:auto;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}

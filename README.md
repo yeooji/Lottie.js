@@ -1,4 +1,5 @@
 # Lottie.js
-Lottie
+Lottie.js를 익히기 위한 실습
 
-https://yeooji.github.io/Lottie.js/index.html
+### Demo
+https://yeooji.github.io/Lottie.js/
